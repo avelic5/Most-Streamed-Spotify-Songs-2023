@@ -53,5 +53,3 @@ Open a Jupyter Notebook and execute the provided analysis steps.
 ## 📢 Contributions
 Contributions and suggestions are welcome! Feel free to fork the repo and submit a pull request.
 
-## 📄 License
-This project is open-source and available under the MIT License.
