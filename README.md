@@ -18,6 +18,9 @@ The analysis is conducted using Python and popular data science libraries:
 - `matplotlib` and `seaborn` for data visualization
 - `numpy` for numerical operations
 
+   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 ## 🔍 Analysis & Insights
 This project explores:
 - The most streamed songs and artists of 2023
